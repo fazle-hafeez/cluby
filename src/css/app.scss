@@ -1,0 +1,178 @@
+ @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+//  @import 'tailwindcss/base';
+//  @import 'tailwindcss/components';
+//  @import 'tailwindcss/utilities';
+ 
+
+ body {
+    font-family: 'Source Sans Pro',sans-serif;
+    
+}
+.rounded-8 {
+    border-radius: 8px !important;
+    -moz-border-radius: 8px !important;
+    overflow: hidden;
+}
+.font-SSP700, .font-ssp700 {
+    font-family: "Source Sans Pro", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+}
+.text-grey-9 {
+    color: rgb(66, 66, 66) !important;
+}
+.rounded{
+    border-radius: 50%;
+}
+.font-SSP600, .font-ssp600 {
+    font-family: "Source Sans Pro", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+}
+.roundedborder-12{
+    border-radius: 12px;
+}
+.f-24{
+    font-size: 24;
+}
+.forrow-gt-lg{
+    margin-top: 20px; padding-inline: 45px;
+}
+.bg-purple-light {
+    background-color: #ede8f7 !important;
+}
+.mt-6{
+    margin-top: 6px;
+}
+.f-16 {
+    font-size: 16px;
+}
+.f-14{
+    font-size: 14px;
+}
+.rounded-10 {
+    border-radius: 10px !important;
+    -moz-border-radius: 10px !important;
+    overflow: hidden;
+}
+.main-row {
+    position: relative;
+    height: 100vh;
+}
+.main-lg{
+    border-radius: 8px; 
+    padding-block: 10px;
+     padding-inline: 14px;
+  }
+  .main-lgf{
+    border-radius: 8px; 
+    padding-block: 10px;
+     padding-inline: 22px;
+  }
+  .rounded-8 {
+      border-radius: 8px !important;
+      -moz-border-radius: 8px !important;
+      overflow: hidden;
+  }
+  .tab__icon {
+      width: 28px;
+      height: 28px;
+      font-size: 28px;
+  }
+  
+  .full-logo {
+      width: auto;
+      height: 30px;
+  }
+  
+.container {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.f-18 {
+    font-size: 18px;
+}
+.text-purple{
+    color: rgb(39, 5, 39);
+}
+// .font-ssp600 {
+//     font-family: "Source Sans Pro", sans-serif;
+//     font-style: normal;
+//     font-weight:600;
+//     color: rgb(66, 66, 66) !important;
+// }
+.background-color {
+    background: linear-gradient(146.39deg, #0070B2 -.65%, #0079B6 13.32%, #0092C3 36.57%, #00A3CB 84.07%);
+}
+.border{
+    border: 1px solid black;
+}
+body{
+    background-color: rgb(233, 231, 231);
+}
+.b-50{
+    border-radius: 50%;
+}
+
+// $typography-font-family: 'Source Sans Pro', sans-serif !default;
+
+body, html, .font-ssp400 {
+    font-family:  "Source Sans Pro", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+.responsive {
+    width: 100%;
+    height: auto;
+}
+.letter-space-3 {
+    letter-spacing: 3px;
+}
+.main-text-color {
+    background: linear-gradient(146.39deg, #0070B2 -.65%, #0079B6 13.32%, #0092C3 36.57%, #00A3CB 84.07%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+.f-30 {
+    font-size: 30px;
+}
+.font-ssp700 {
+    font-family:  'Source Sans Pro', 'sans-serif';
+    font-style: normal;
+    font-weight: 700;
+}
+.text-black {
+    color: #1b1b1b !important;
+}
+.lh-70 {
+    line-height: 70px;
+}
+.f-60 {
+    font-size: 60px;
+}
+.f-64 {
+    font-size: 64px;
+}
+.f-20 {
+    font-size: 20px;
+}
+.py-8 {
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.f-18 {
+    font-size: 18px;
+}
+.rounded-10 {
+    border-radius: 10px !important;
+    -moz-border-radius: 10px !important;
+    overflow: hidden;
+}
+.non-selectable {
+    -webkit-user-select: none !important;
+    user-select: none !important;
+}
+.letter-space--3 {
+    letter-spacing: -3px;
+}
